@@ -10,8 +10,8 @@ Gem::Specification.new do |s|
   s.required_rubygems_version = Gem::Requirement.new(">= 0") if s.respond_to? :required_rubygems_version=
   s.authors = ["AOKI Yuuto"]
   s.date = "2012-04-03"
-  s.description = "TODO: longer description of your gem"
-  s.email = "wx.aoki@gmail.com"
+  s.description = "kanata は Yahoo!デベロッパーネットワーク/日本語形態素解析のライブラリです"
+  s.email = "aoki@u-ne.co"
   s.extra_rdoc_files = [
     "LICENSE.txt",
     "README.rdoc"
