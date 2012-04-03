@@ -37,7 +37,7 @@ Gem::Specification.new do |s|
   s.licenses = ["MIT"]
   s.require_paths = ["lib"]
   s.rubygems_version = "1.8.11"
-  s.summary = "TODO: one-line summary of your gem"
+  s.summary = "Yahoo!デベロッパーネットワーク 日本語形態素解析 ライブラリ"
 
   if s.respond_to? :specification_version then
     s.specification_version = 3
