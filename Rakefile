@@ -17,9 +17,9 @@ Jeweler::Tasks.new do |gem|
   gem.name = "kanata"
   gem.homepage = "http://github.com/wneko/kanata"
   gem.license = "MIT"
-  gem.summary = %Q{TODO: one-line summary of your gem}
-  gem.description = %Q{TODO: longer description of your gem}
-  gem.email = "wx.aoki@gmail.com"
+  gem.summary = %Q{Yahoo!デベロッパーネットワーク 日本語形態素解析 ライブラリ}
+  gem.description = %Q{kanata は Yahoo!デベロッパーネットワーク/日本語形態素解析のライブラリです}
+  gem.email = "aoki@u-ne.co"
   gem.authors = ["AOKI Yuuto"]
   # dependencies defined in Gemfile
 end
